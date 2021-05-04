@@ -2,7 +2,7 @@
 
 ## What is Linear Regression?
 
-![header_photo](/imgs/header.png)
+![header_photo](imgs/header.png)
 
 When you start looking into linear regression, things can get very confusing.
 
