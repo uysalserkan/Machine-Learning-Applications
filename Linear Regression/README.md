@@ -57,4 +57,4 @@ There are extensions of the training of the linear model called regularization m
 ## Our Examples
 
 1. [Car Price Prediction 1](Car%20Price%20Prediction.ipynb)
-
+2. [Simple Linear Regression](Simple%20Linear%20Regression.ipynb)
